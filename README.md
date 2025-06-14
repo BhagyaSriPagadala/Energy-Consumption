@@ -20,7 +20,7 @@ Features
 - Python, Pandas, Scikit-learn, Matplotlib
 
  📁 Files
-- `notebook/energy_forecast.ipynb` – main notebook
+- `energy_consumption.ipynb` – main notebook
 - `requirements.txt` – dependencies
 - `README.md` – project overview
 
